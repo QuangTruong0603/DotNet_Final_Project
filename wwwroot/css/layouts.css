@@ -1,0 +1,41 @@
+﻿
+.custom-nav {
+    background-color: #313958;
+    
+    
+}
+.navbar-collapse{
+    color: aliceblue;
+}
+.navbar-toggler{
+    color:aliceblue;
+}
+.navbar-toggler-icon{
+    color:aliceblue !important;
+}
+.nav-link{
+    color:aliceblue!important;
+}
+.navbar-toggler{
+    color:aliceblue !important;
+}
+.navbar-brand {
+    color: #f3c93e !important;
+}
+.nav-account{
+    display:flex;
+    text-align:center !important;
+    height:40px;
+    
+   
+}
+
+.nav-search{
+    justify-content:center;
+    display:flex;
+    margin-right:20px;
+}
+.nav-form{
+    margin-right:8px;
+}
+

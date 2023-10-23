@@ -1,3 +1,6 @@
+
+using do_an_ck.Service;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 namespace do_an_ck
@@ -12,6 +15,19 @@ namespace do_an_ck
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddScoped< EmailService>();
+            builder.Services.AddTransient<IEmailSender, EmailSender>();
+            
+            // Add session
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(120);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
 
             var app = builder.Build();
 
@@ -25,7 +41,8 @@ namespace do_an_ck
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseSession();
+            
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");

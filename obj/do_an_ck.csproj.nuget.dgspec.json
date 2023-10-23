@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\do_an_ck.csproj": {}
+    "C:\\dotnet\\do_an_ck\\do_an_ck.csproj": {}
   },
   "projects": {
-    "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\do_an_ck.csproj": {
+    "C:\\dotnet\\do_an_ck\\do_an_ck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\do_an_ck.csproj",
+        "projectUniqueName": "C:\\dotnet\\do_an_ck\\do_an_ck.csproj",
         "projectName": "do_an_ck",
-        "projectPath": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\do_an_ck.csproj",
+        "projectPath": "C:\\dotnet\\do_an_ck\\do_an_ck.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\",
+        "outputPath": "C:\\dotnet\\do_an_ck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.12, )"
@@ -53,6 +57,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
             }
           },
           "imports": [

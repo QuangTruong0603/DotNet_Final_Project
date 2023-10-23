@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V8brp78Jc3y2IfJAe6/4/xdYLcumxqz2+nNuwuBF0wg=",
+  "Hash": "+Gd1x7ESgZLbogMhb0d1xAfDc5JvG6R8yFmQK4zKijU=",
   "Source": "do_an_ck",
   "BasePath": "_content/do_an_ck",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "do_an_ck\\wwwroot",
       "Source": "do_an_ck",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\do_an_ck.styles.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\do_an_ck.styles.css",
       "SourceId": "do_an_ck",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "do_an_ck.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\do_an_ck.styles.css"
+      "OriginalItemSpec": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\bundle\\do_an_ck.styles.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\do_an_ck.bundle.scp.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\do_an_ck.bundle.scp.css",
       "SourceId": "do_an_ck",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "do_an_ck.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\do_an_ck.bundle.scp.css"
+      "OriginalItemSpec": "C:\\dotnet\\do_an_ck\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\do_an_ck.bundle.scp.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\css\\site.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\css\\layouts.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "css/layouts.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\layouts.css"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\css\\site.css",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\favicon.ico",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\favicon.ico",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +102,129 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\fontawesome-webfont.ttf",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/fontawesome-webfont.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\fontawesome-webfont.woff",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/fontawesome-webfont.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\fontawesome-webfont.woff2",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/fontawesome-webfont.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\Helvetica\\Helvetica.ttf",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/Helvetica/Helvetica.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\Helvetica\\Helvetica.ttf"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\Helvetica\\Helvetica-Bold.ttf",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/Helvetica/Helvetica-Bold.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\Helvetica\\Helvetica-Bold.ttf"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\font\\Helvetica\\HelveticaLt.ttf",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "font/Helvetica/HelveticaLt.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\Helvetica\\HelveticaLt.ttf"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\js\\layouts.js",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
+      "BasePath": "_content/do_an_ck",
+      "RelativePath": "js/layouts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\layouts.js"
+    },
+    {
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\js\\site.js",
+      "SourceId": "do_an_ck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\dotnet\\do_an_ck\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "do_an_ck",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\KI1-NAM3\\DOT NET\\DO AN CUOI KI\\do_an_ck\\wwwroot\\",
+      "ContentRoot": "C:\\dotnet\\do_an_ck\\wwwroot\\",
       "BasePath": "_content/do_an_ck",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
