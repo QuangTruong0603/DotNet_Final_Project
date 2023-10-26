@@ -6,9 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using do_an_ck.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace do_an_ck.Controllers
 {
+
+    [Authorize(Roles = "2")]
     public class UsersController : Controller
     {
         private readonly WebBanHangDBContext _context;

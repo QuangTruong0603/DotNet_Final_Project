@@ -1,6 +1,7 @@
 
 using do_an_ck.Service;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 namespace do_an_ck
@@ -17,7 +18,7 @@ namespace do_an_ck
             builder.Services.AddControllersWithViews();
             builder.Services.AddHttpContextAccessor();
             builder.Services.AddScoped< EmailService>();
-            builder.Services.AddTransient<IEmailSender, EmailSender>();
+            
             
             // Add session
             builder.Services.AddDistributedMemoryCache();
@@ -29,6 +30,15 @@ namespace do_an_ck
                 options.Cookie.IsEssential = true;
             });
 
+            //Add auth
+            builder.Services.AddAuthentication(
+                CookieAuthenticationDefaults.AuthenticationScheme
+                ).AddCookie(option =>
+                {
+                    option.LoginPath = "/Account/Login";
+                    option.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+                });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -39,13 +49,13 @@ namespace do_an_ck
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
             app.UseSession();
             
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Account}/{action=Login}/{id?}");
 
             app.Run();
         }
